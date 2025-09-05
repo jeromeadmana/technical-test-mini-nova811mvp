@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Printer not working",
+    "organization": "Finance Department",
+    "createdDate": "2025-09-05",
+    "expirationDate": "2025-09-20",
+    "location": "3rd Floor, Office 302",
+    "notes": "Paper jam error when printing",
+    "status": "open"
+  },
+  {
+    "title": "Broken monitor",
+    "organization": "IT Support",
+    "createdDate": "2025-09-01",
+    "expirationDate": "2025-09-07",
+    "location": "Room 210",
+    "notes": "Screen flickers randomly"
+  },
+  {
+    "title": "Internet Issues",
+    "organization": "Operations",
+    "createdDate": "2025-09-05",
+    "expirationDate": "2025-09-10",
+    "location": "HQ, California",
+    "notes": "Playing Dinosaur Game Instead"
+  }
+]

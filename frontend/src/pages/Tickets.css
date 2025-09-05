@@ -1,0 +1,77 @@
+.tickets-container {
+  padding: 20px;
+  color: #000;
+  background: #fff;
+}
+
+.button-bar {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px; /* spacing between buttons */
+}
+
+/* Table styles */
+.tickets-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-size: 14px; /* smaller font */
+}
+
+.tickets-table th,
+.tickets-table td {
+  border: 1px solid #000;
+  padding: 6px 8px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.tickets-table th {
+  background: #f9f9f9;
+  font-weight: bold;
+}
+
+/* Buttons */
+/* Buttons */
+.btn {
+  padding: 6px 10px;
+  border: 2px solid #000;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  font-size: 13px;
+  white-space: nowrap; /* prevent wrapping */
+  min-width: 120px;    /* 👈 uniform button width */
+  text-align: center;  /* center the text */
+}
+
+.btn-primary {
+  background: #fff;
+  color: #000;
+}
+
+.btn-primary:hover {
+  background: #f2f2f2;
+}
+
+.btn-secondary {
+  background: #000;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background: #333;
+}
+
+.btn-bar {
+  min-width: 15%; /* override min-width for button bar buttons */
+  padding: 8px 14px; /* slightly larger padding */
+}
+
+/* Action buttons inside table */
+.action-buttons {
+  display: flex;
+  gap: 8px; /* spacing between Renew/Close */
+  padding-left: 4px; /* slight indent inside cell */
+}

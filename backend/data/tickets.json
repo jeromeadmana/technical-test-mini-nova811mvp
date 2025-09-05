@@ -1,0 +1,22 @@
+[
+  {
+    "ticketNumber": "TICKET-001",
+    "organization": "Acme Co",
+    "status": "open",
+    "createdDate": "2025-09-01T09:00:00.000Z",
+    "expirationDate": "2025-09-10T09:00:00.000Z",
+    "location": "Warehouse 1",
+    "notes": "Initial inspection",
+    "createdBy": 2
+  },
+  {
+    "ticketNumber": "TICKET-002",
+    "organization": "Beta Inc",
+    "status": "open",
+    "createdDate": "2025-09-03T08:30:00.000Z",
+    "expirationDate": "2025-09-06T08:30:00.000Z",
+    "location": "Site B",
+    "notes": "Follow-up",
+    "createdBy": 2
+  }
+]

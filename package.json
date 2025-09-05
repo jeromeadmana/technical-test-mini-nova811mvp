@@ -1,0 +1,7 @@
+{
+  "description": "Full-stack project with Node.js backend and React frontend. Includes scripts to install dependencies and run both servers concurrently.",
+  "scripts": {
+    "start": "concurrently \"npm run dev --prefix backend\" \"npm run start --prefix frontend\"",
+    "install:all": "concurrently \"npm install --prefix backend\" \"npm install --prefix frontend\""
+  }
+}

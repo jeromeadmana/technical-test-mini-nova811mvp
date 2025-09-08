@@ -25,7 +25,7 @@ This project is a simple ticketing system built with **React (TypeScript)** fron
 ## 📥 Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/jeromeadmana/technical-test-mini-nova811mvp.git
 cd project
 ```
 

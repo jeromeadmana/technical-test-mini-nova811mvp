@@ -78,7 +78,8 @@ const API_URL = "http://localhost:4000";
 ## 🔑 Authentication
 
 * Login is done via JWT.
-* Admin and Contractor users can **close tickets** and **view all tickets**.
+* Admin and Contractor users can **close tickets**
+* Admin can **view all tickets**.
 * Contractor users can **view only their tickets**.
 
 **Default seeded users** (from `npm run seed`):
